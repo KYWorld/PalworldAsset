@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Unpack\\Source\\Unpack\\Unpack.Build.cs",
+		"C:\\Projects\\Unpack\\Source\\Unpack.Target.cs",
+		"C:\\Projects\\Unpack\\Source\\UnpackEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

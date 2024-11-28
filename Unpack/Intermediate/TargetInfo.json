@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unpack",
+			"Path": "..\\Source\\Unpack.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnpackEditor",
+			"Path": "..\\Source\\UnpackEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
